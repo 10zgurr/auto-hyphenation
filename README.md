@@ -1,5 +1,5 @@
 This is a sample repo to show visual differences between instrumented and robolectric tests when auto-hypenation is being used for a text via text style.
-Related issue is created on [robolectric github page](https://github.com/robolectric/robolectric/issues/10402).
+Related [issue](https://github.com/robolectric/robolectric/issues/10402) is created on robolectric github page.
 
 Screenshot from an instrumented test:
 
